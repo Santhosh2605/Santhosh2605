@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Santhosh2605
-- 👀 I’m interested in ... Front-end development
-- 🌱 I’m currently learning ... Diploma in computer engineering
+- 👀 I’m currently working in DXC Technology's 
+- 🌱 I’m completed my ... Diploma in computer engineering
 - 💞️ I’m looking to collaborate on ...web development
-- 📫 How to reach me ... Skilled developer
+- 📫 Looking for a mentor for improve my skills
 
 <!---
 Santhosh2605/Santhosh2605 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
