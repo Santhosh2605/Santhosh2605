@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Santhosh2605
-- 👀 I’m currently working in DXC Technology's 
+- 👀 I’m currently working as Network Engineer.
 - 🌱 I’m completed my ... Diploma in computer engineering
 - 💞️ I’m looking to collaborate on ...web development
 - 📫 Looking for a mentor for improve my skills
