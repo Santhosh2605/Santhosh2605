@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Santhosh2605
 - 👀 I’m currently working as Network Engineer.
 - 🌱 I’m completed my ... Diploma in computer engineering
-- 💞️ I’m looking to collaborate on ...web development
+- 💞️ I’m looking to collaborate on ...Networking architecture & implementations
 - 📫 Looking for a mentor for improve my skills
 
 <!---
